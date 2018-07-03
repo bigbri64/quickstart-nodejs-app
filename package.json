@@ -1,0 +1,30 @@
+{
+  "name": "quickstart-nodejs-app",
+  "version": "0.0.1",
+  "description": "Quickstart Project for creating a NodeJS command line application",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "standard && npm outdated"
+  },
+  "keywords": [
+    "youtube",
+    "video",
+    "ascii",
+    "terminal",
+    "player",
+    "music"
+  ],
+  "author": "Brian Runyon <brian_runyon@hotmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigbri64/quickstart-nodejs-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bigbri64/quickstart-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/bigbri64/quickstart-nodejs-app#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
